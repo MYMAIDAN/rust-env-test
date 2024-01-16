@@ -1,0 +1,10 @@
+[package]
+name = "rust-env-test"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = {git = "https://github.com/serde-rs/serde.git", branch = "master"}
+base64 = {git="https://github.com/marshallpierce/rust-base64.git", branch = "master"}
