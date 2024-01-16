@@ -4,8 +4,8 @@ version = 3
 
 [[package]]
 name = "base64"
-version = "0.21.7"
-source = "git+https://github.com/marshallpierce/rust-base64.git?branch=master#9652c787730e58515ce7b44fcafd2430ab424628"
+version = "0.11.0"
+source = "git+https://github.com/marshallpierce/rust-base64.git?branch=apply-fmt#e4a3414dd4e2d18e9bd7c3d3a9141a854119ae3d"
 
 [[package]]
 name = "proc-macro2"
