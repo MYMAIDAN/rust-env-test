@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 serde = {git = "https://github.com/serde-rs/serde.git", branch = "master"}
-base64 = {git="https://github.com/marshallpierce/rust-base64.git", branch = "apply-fmt"}
+base64 = {git="https://github.com/marshallpierce/rust-base64.git", branch = "master"}
