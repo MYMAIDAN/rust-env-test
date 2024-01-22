@@ -1,3 +1,0 @@
-[merge "custom"]
-	name="A custom merge driver used to resolve conflicts in certain files"
-	driver=echo "Hello"
